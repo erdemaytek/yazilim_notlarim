@@ -47,7 +47,7 @@ Body-Parser modülü; gönderilen post datasını obje olarak yakalamamızı sa�
 
 `database_connect_info.js` isminde dosya oluşturalım ve aşağıdaki gibi veri tabanı bağlantı bilgilerini girelim.
 
-```javastacktrace
+```javascript
 const Pool = require('pg').Pool
 
 const pool = new Pool({
