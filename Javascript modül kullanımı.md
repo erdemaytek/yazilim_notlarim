@@ -128,7 +128,7 @@ Modülümüzü head tagları arasında çağırıyoruz. Burada` type="module" `e
 
 Console görüntüsü aşağıdaki gibidir.
 
-![](resimler\module_log.png)
+![](resimler/module_log.png)
 
 
 
